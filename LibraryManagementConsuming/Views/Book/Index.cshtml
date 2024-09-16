@@ -1,0 +1,31 @@
+﻿@model List<Book>
+
+
+<h2>Library Catalog</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Year</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.Year</td>
+                <td>
+                    <a href="@Url.Action("DeleteBook", new { id = book.Id })" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("AddBook")" class="btn btn-primary">Add New Book</a>
+

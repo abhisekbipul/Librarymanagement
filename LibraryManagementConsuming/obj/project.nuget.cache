@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xGdKRDoFK1c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\LibraryManagementConsuming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ABHISEK PATRA\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

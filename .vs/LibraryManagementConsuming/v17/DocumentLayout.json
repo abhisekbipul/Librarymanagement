@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E33F62F3-172C-4973-B4E2-70087F0DA643}|LibraryManagementConsuming\\LibraryManagementConsuming.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagementconsuming\\librarymanagementconsuming\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33F62F3-172C-4973-B4E2-70087F0DA643}|LibraryManagementConsuming\\LibraryManagementConsuming.csproj|solutionrelative:librarymanagementconsuming\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33F62F3-172C-4973-B4E2-70087F0DA643}|LibraryManagementConsuming\\LibraryManagementConsuming.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagementconsuming\\librarymanagementconsuming\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33F62F3-172C-4973-B4E2-70087F0DA643}|LibraryManagementConsuming\\LibraryManagementConsuming.csproj|solutionrelative:librarymanagementconsuming\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33F62F3-172C-4973-B4E2-70087F0DA643}|LibraryManagementConsuming\\LibraryManagementConsuming.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagementconsuming\\librarymanagementconsuming\\controllers\\librarycardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33F62F3-172C-4973-B4E2-70087F0DA643}|LibraryManagementConsuming\\LibraryManagementConsuming.csproj|solutionrelative:librarymanagementconsuming\\controllers\\librarycardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33F62F3-172C-4973-B4E2-70087F0DA643}|LibraryManagementConsuming\\LibraryManagementConsuming.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagementconsuming\\librarymanagementconsuming\\views\\librarycard\\issuelibrarycard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E33F62F3-172C-4973-B4E2-70087F0DA643}|LibraryManagementConsuming\\LibraryManagementConsuming.csproj|solutionrelative:librarymanagementconsuming\\views\\librarycard\\issuelibrarycard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33F62F3-172C-4973-B4E2-70087F0DA643}|LibraryManagementConsuming\\LibraryManagementConsuming.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagementconsuming\\librarymanagementconsuming\\views\\librarycard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E33F62F3-172C-4973-B4E2-70087F0DA643}|LibraryManagementConsuming\\LibraryManagementConsuming.csproj|solutionrelative:librarymanagementconsuming\\views\\librarycard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33F62F3-172C-4973-B4E2-70087F0DA643}|LibraryManagementConsuming\\LibraryManagementConsuming.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagementconsuming\\librarymanagementconsuming\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33F62F3-172C-4973-B4E2-70087F0DA643}|LibraryManagementConsuming\\LibraryManagementConsuming.csproj|solutionrelative:librarymanagementconsuming\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33F62F3-172C-4973-B4E2-70087F0DA643}|LibraryManagementConsuming\\LibraryManagementConsuming.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagementconsuming\\librarymanagementconsuming\\models\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33F62F3-172C-4973-B4E2-70087F0DA643}|LibraryManagementConsuming\\LibraryManagementConsuming.csproj|solutionrelative:librarymanagementconsuming\\models\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33F62F3-172C-4973-B4E2-70087F0DA643}|LibraryManagementConsuming\\LibraryManagementConsuming.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagementconsuming\\librarymanagementconsuming\\views\\book\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E33F62F3-172C-4973-B4E2-70087F0DA643}|LibraryManagementConsuming\\LibraryManagementConsuming.csproj|solutionrelative:librarymanagementconsuming\\views\\book\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33F62F3-172C-4973-B4E2-70087F0DA643}|LibraryManagementConsuming\\LibraryManagementConsuming.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagementconsuming\\librarymanagementconsuming\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E33F62F3-172C-4973-B4E2-70087F0DA643}|LibraryManagementConsuming\\LibraryManagementConsuming.csproj|solutionrelative:librarymanagementconsuming\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33F62F3-172C-4973-B4E2-70087F0DA643}|LibraryManagementConsuming\\LibraryManagementConsuming.csproj|c:\\users\\abhisek patra\\source\\repos\\librarymanagementconsuming\\librarymanagementconsuming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33F62F3-172C-4973-B4E2-70087F0DA643}|LibraryManagementConsuming\\LibraryManagementConsuming.csproj|solutionrelative:librarymanagementconsuming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IssueLibraryCard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\Views\\LibraryCard\\IssueLibraryCard.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementConsuming\\Views\\LibraryCard\\IssueLibraryCard.cshtml",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\Views\\LibraryCard\\IssueLibraryCard.cshtml",
+              "RelativeToolTip": "LibraryManagementConsuming\\Views\\LibraryCard\\IssueLibraryCard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T15:59:18.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\Views\\LibraryCard\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementConsuming\\Views\\LibraryCard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\Views\\LibraryCard\\Index.cshtml",
+              "RelativeToolTip": "LibraryManagementConsuming\\Views\\LibraryCard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T15:51:29.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryCardController.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\Controllers\\LibraryCardController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementConsuming\\Controllers\\LibraryCardController.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\Controllers\\LibraryCardController.cs",
+              "RelativeToolTip": "LibraryManagementConsuming\\Controllers\\LibraryCardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:44:12.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementConsuming\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LibraryManagementConsuming\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:31:35.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementConsuming\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagementConsuming\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:27:57.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\Views\\Book\\AddBook.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementConsuming\\Views\\Book\\AddBook.cshtml",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\Views\\Book\\AddBook.cshtml",
+              "RelativeToolTip": "LibraryManagementConsuming\\Views\\Book\\AddBook.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T08:38:16.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementConsuming\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "LibraryManagementConsuming\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T08:22:45.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryCard.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\Models\\LibraryCard.cs",
+              "RelativeDocumentMoniker": "LibraryManagementConsuming\\Models\\LibraryCard.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\Models\\LibraryCard.cs",
+              "RelativeToolTip": "LibraryManagementConsuming\\Models\\LibraryCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:29:12.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LibraryManagementConsuming\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\Models\\User.cs",
+              "RelativeToolTip": "LibraryManagementConsuming\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:30:08.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementConsuming\\Program.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\LibraryManagementConsuming\\LibraryManagementConsuming\\Program.cs",
+              "RelativeToolTip": "LibraryManagementConsuming\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:45:32.686Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

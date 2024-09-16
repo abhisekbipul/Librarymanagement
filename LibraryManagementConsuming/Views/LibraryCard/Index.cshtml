@@ -1,0 +1,26 @@
+﻿@model IEnumerable<LibraryCard>
+
+<h2>Library Cards</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Card Number</th>
+            <th>Issued Date</th>
+            <th>User ID</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var card in Model)
+        {
+            <tr>
+                <td>@card.CardNumber</td>
+                <td>@card.IssuedDate.ToShortDateString()</td>
+                <td>@card.UserId</td>
+                <td>
+                    <!-- Any actions like updating status or deleting card -->
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
